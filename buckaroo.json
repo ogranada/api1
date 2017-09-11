@@ -1,0 +1,8 @@
+{
+  "name": "api-1",
+  "dependencies": {
+    "datasift/served": "1.4.1",
+    "pocoproject/mongodb": "1.7.8",
+    "nlohmann/json": "2.1.1"
+  }
+}

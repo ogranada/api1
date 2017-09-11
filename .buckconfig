@@ -1,0 +1,2 @@
+[cxx]
+  cxxflags = -Wall -std=c++1z
